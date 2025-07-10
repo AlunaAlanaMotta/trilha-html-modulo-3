@@ -65,6 +65,10 @@ audio {
   box-shadow: 0 0 10px gold;
 }
 
+.logo-harry-potter {
+  filter: drop-shadow(10px 10px 5px rgba(236, 217, 217, 0.5));
+}
+
 .moldura-dourada {
   border: 6px solid #c69749; /* Dourado mais escuro */
   border-radius: 10px;
